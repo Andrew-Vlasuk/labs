@@ -1,0 +1,6 @@
+C:\Users\Віктор\Desktop\labs\LAb3\bin\Debug\LAb3.exe.config
+C:\Users\Віктор\Desktop\labs\LAb3\bin\Debug\LAb3.exe
+C:\Users\Віктор\Desktop\labs\LAb3\bin\Debug\LAb3.pdb
+C:\Users\Віктор\Desktop\labs\LAb3\obj\Debug\LAb3.csproj.CoreCompileInputs.cache
+C:\Users\Віктор\Desktop\labs\LAb3\obj\Debug\LAb3.exe
+C:\Users\Віктор\Desktop\labs\LAb3\obj\Debug\LAb3.pdb
