@@ -1,0 +1,7 @@
+C:\Users\Віктор\Desktop\labs\LAb2\bin\Debug\LAb2.exe.config
+C:\Users\Віктор\Desktop\labs\LAb2\bin\Debug\LAb2.exe
+C:\Users\Віктор\Desktop\labs\LAb2\bin\Debug\LAb2.pdb
+C:\Users\Віктор\Desktop\labs\LAb2\obj\Debug\LAb2.csprojAssemblyReference.cache
+C:\Users\Віктор\Desktop\labs\LAb2\obj\Debug\LAb2.csproj.CoreCompileInputs.cache
+C:\Users\Віктор\Desktop\labs\LAb2\obj\Debug\LAb2.exe
+C:\Users\Віктор\Desktop\labs\LAb2\obj\Debug\LAb2.pdb
